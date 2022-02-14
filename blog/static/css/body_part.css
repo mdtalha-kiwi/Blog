@@ -1,0 +1,12 @@
+.main{
+    height:200px;
+    text-align:center;
+    padding: 40px;
+    font-size: 35px;
+    font-weight: bold;
+    background-color:rgba(0, 162, 255, 0.781);
+    font-family: "Helvetica";
+}
+.card-style{
+    margin:20px;
+}
